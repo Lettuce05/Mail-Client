@@ -7,6 +7,7 @@ NOTE: Uses Google's SMTP server
 
 ### Todo:
 
+- [ ] Make user's password invisible when entering
 - [ ] Add a GUI using tkinter
 - [ ] Add Google Authentication
 - [ ] Add a browse for file feature
